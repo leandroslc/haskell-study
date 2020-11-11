@@ -1,0 +1,17 @@
+name: account-digits
+version: 0.1.0.0
+
+dependencies:
+  - base
+
+library:
+  exposed-modules: Account
+  source-dirs: src
+
+tests:
+  test:
+    main: Spec.hs
+    source-dirs: test
+    dependencies:
+      - hspec
+      - account-digits
