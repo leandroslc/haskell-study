@@ -10,8 +10,8 @@
 </div>
 
 ## :rocket: Getting started
-- Setup the Haskell [Stack](https://docs.haskellstack.org/) tool.
-- You can run the tests of any project by running the command `stack test` within the project's directory.
+- Setup the Haskell [Stack](https://docs.haskellstack.org) tool.
+- Run tests of any study by running the command `stack test` within the study directory.
 
 ## 📂 Structure
 All studies are organized as follows:
