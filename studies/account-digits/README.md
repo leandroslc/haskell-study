@@ -22,8 +22,8 @@ You must code a program that validates the account number, given the account num
 
 
 ## Restrictions
-`1 <= N <= 10 ^ 6`
-`0 <= V <= 10 ^ 3`
+- `1 <= N <= 10 ^ 6`
+- `0 <= V <= 10 ^ 3`
 
 
 ## Sample test cases
